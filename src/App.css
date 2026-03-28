@@ -1,0 +1,5 @@
+/* Main App specific styles (if any) */
+/* The layout and most UI is handled by components and index.css base */
+.app-container {
+  width: 100%;
+}
