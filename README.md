@@ -11,12 +11,19 @@ This repository serves as a perfect blueprint for students, educators, and devel
 The application is a fully functional, sleek, and modern Task Manager (Todo App) utilizing React, Redux Toolkit, and vanilla CSS with a beautiful dark-mode glassmorphism UI.
 
 ### 🎥 Demo Video
-> **[Insert Demo Video Here]**
-> *(Upload your `.mp4` video to GitHub and replace this block with the video link/gif)*
+
+<video src="./assets/working_vid.gif" controls="controls" width="100%">
+  Your browser does not support the video tag.
+</video>
+
+*(If the video doesn't play inline, click [here](./assets/working_vid.mp4) to download/view it)*
 
 ### 🖼️ Screenshots
-> **[Insert Application Screenshot Here]**
-> *(Upload an image of the UI on desktop and mobile and put it here)*
+
+<p align="center">
+  <img src="./assets/sc1.png" alt="Screenshot 1" width="49%">
+  <img src="./assets/sc2.png" alt="Screenshot 2" width="49%">
+</p>
 
 ---
 
