@@ -12,11 +12,7 @@ The application is a fully functional, sleek, and modern Task Manager (Todo App)
 
 ### 🎥 Demo Video
 
-<video src="./assets/working_vid.gif" controls="controls" width="100%">
-  Your browser does not support the video tag.
-</video>
-
-*(If the video doesn't play inline, click [here](./assets/working_vid.mp4) to download/view it)*
+![Demo Video](./assets/working_vid.gif)
 
 ### 🖼️ Screenshots
 
